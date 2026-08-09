@@ -6,18 +6,18 @@
 ```zoommap
 imageBases:
   - path: map.png
-markers: Downloads.markers.json
+markers: map.markers.json
 markerLayers:
   - Default
 minZoom: 0.25
 maxZoom: 8
 wrap: false
 responsive: false
-width: 652px
-height: 478px
-resizable: true
+width: 100%
+height: 480px
+resizable: false
 resizeHandle: native
 render: dom
 imageRendering: auto
-id: map-mskaojhv
+id: map-mslhr59z
 ```
